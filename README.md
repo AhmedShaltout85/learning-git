@@ -1,4 +1,4 @@
-# Learning Git| Github
+# Learning Git | Github
 ### This Tutorial for Learning git(Version Control)
 this repo is for Learning purposes
 https://github.com/AhmedShaltout85/learning-git/edit/main/README.md
